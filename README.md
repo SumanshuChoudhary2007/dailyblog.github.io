@@ -15,7 +15,17 @@ In the final lecture, we had the opportunity to learn a lot from Dr. Hardeep Rai
 
 # Day 3
 
-I reached class at 9 am, where we had the chance to learn about human values as recommended by AICTE. I learned how ethics and moral values are necessary to accomplish any task and to make our lives successful. After that, we got a chance to interact with our seniors. They discussed their experiences and explained the grading system (revaluation), library cards, and the importance of enrolling ourselves on the official college website. These are necessary things we need to know about and benefit from.
+I reached class at 9 am, where we had the chance to learn about human values as recommended by AICTE. I learned how ethics and moral values are necessary to accomplish any task and to make our lives successful. After that, we got a chance to interact with our seniors. They discussed their experiences and explained the grading system (revaluation), library cards, and the importance of enrolling ourselves on the official college website. These are necessary things we need to know about and benefit from. "There is a holiday on Saturday and Sunday, so I go home on Friday evening for the next two days because I am a hosteller."
+
+
+# Day 4
+
+today is monday
+
+
+
+
+
 
 
 
