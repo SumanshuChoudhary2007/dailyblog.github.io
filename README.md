@@ -20,9 +20,7 @@ I reached class at 9 am, where we had the chance to learn about human values as 
 
 # Day 4
 
-today is monday
-
-
+coming soon...
 
 
 
