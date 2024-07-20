@@ -5,12 +5,13 @@ The first day of college began with our arrival at the college Gurudwara Sahib f
 The second speaker was our college principal, Dr. Sehijpal Singh. He spoke about the education system and shared his experiences from the time he joined the college to the present day. Finally, we were energized by a speech given by S. Harjinder Dhami. In his address, he spoke about the value of the education we are receiving and encouraged us to look forward to solving problems with the help of technical education. Thus, the first day of the induction program ended with new thoughts and a refreshed mindset.
 
 
-# Thu, Jul 11 (Day 2) 
 
+# Thu, Jul 11 (Day 2) 
 
 After reaching the auditorium at 8:45 AM, the volunteers showed us our seats. At 9 AM, Ms. Harpreet Kaur welcomed us warmly. After that, the host invited Dr. Arvind Dhingra, President of Technical and Director of STEP. He informed us about the numerous societies and clubs available for student development. Dr. Parminder Singh then provided a detailed overview of the scholarships offered by the college.
 
 In the final lecture, we had the opportunity to learn a lot from Dr. Hardeep Rai, a valuable source of information. His views on examinations were as fascinating as expected. He also expressed his readiness to offer us wonderful opportunities to work with him and gain access to free and open-source software efficiently.
+
 
 
 # Fri, Jul 12 (Day 3) 
@@ -38,6 +39,26 @@ The final speaker of the day was Mr. Pancham Singh, a fourth-year Mechanical Eng
 
 
 
+# Tue, Jul 16 (Day 5)
+
+We began our day with great anticipation, gathering outside the IT department. The atmosphere buzzed with excitement as we eagerly awaited the day's activities. Our professors then guided us to the hardware lab, where we were introduced to the core values and goals of the IT department.
+
+Understanding the Vision and Mission
+In the hardware lab, our professors elaborated on the vision and mission of the IT department. The vision is particularly inspiring: to train students from villages and transform them into professionals. This commitment to empowering rural students underscores the department’s dedication to inclusive education and social upliftment.
+
+The mission emphasized preparing us to meet the challenges of the rapidly evolving tech industry through a comprehensive curriculum and hands-on experiences.
+
+Program-Based Outcomes
+We also explored the program-based outcomes, which outline the skills and competencies we are expected to develop throughout our course. These outcomes include technical proficiency, problem-solving abilities, effective communication, teamwork, and a lifelong learning mindset. Understanding these outcomes gave us a clear roadmap of what we need to achieve and how the department will support us on this journey.
+
+Exploring the IT Department Labs
+After the enlightening session in the hardware lab, we had the opportunity to visit various other labs within the IT department. Each lab offered a glimpse into different facets of IT, from software development to network systems, and more. These visits were incredibly informative, allowing us to see the practical applications of our coursework and the resources available to us.
+
+
+
+# Wed, Jul 17 (Day 6)
+
+Coming Soon....
 
 
 
